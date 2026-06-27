@@ -2,17 +2,17 @@
 
 > **One button. Infinite ducks.**
 
-Duck is a tiny, minimalist web project where every click summons another duck. Watch your duck army grow as they wander across your screen, unlock milestones, and eventually discover the legendary Golden Duck.
+Duck is a tiny, minimalist web project where every click summons another duck. Watch your duck army grow as they wander across your screen, unlock milestones, and eventually discover the King Duck.
 
 ## ✨ Features
 
 * 🦆 Summon unlimited ducks
-* 🚶 Ducks move around the screen
-* 📱 Mobile-friendly design
-* 🌙 Minimal, clean interface
-* 🎉 Milestone events
-* 👑 Golden Duck unlock
-* ⚡ Lightweight — built with vanilla HTML, CSS, and JavaScript
+* 🚶 Ducks wander around the screen
+* 📱 Mobile-friendly
+* 🌙 Minimal interface
+* 🎉 Progressive milestones
+* 👑 King Duck unlock
+* ⚡ Built with vanilla HTML, CSS & JavaScript
 
 ## 🚀 Getting Started
 
@@ -22,15 +22,15 @@ Clone the repository:
 git clone https://github.com/bluenotthecolor/duck.git
 ```
 
-Open the project folder:
+Open the project:
 
 ```bash
 cd duck
 ```
 
-Then simply open `index.html` in your browser.
+Then open **index.html** in your browser.
 
-No installation or dependencies required.
+No installation required.
 
 ---
 
@@ -51,35 +51,37 @@ duck/
 
 ## 🎮 Milestones
 
-| Ducks | Event                        |
-| ----: | ---------------------------- |
-|    10 | The ducks are multiplying... |
-|   100 | Duck invasion!               |
-|   150 | QUACK!                       |
-|   250 | The ducks own this place.    |
-|   500 | Duck Apocalypse.             |
-|  1000 | 👑 Golden Duck appears.      |
+| Ducks | Unlock                                          |
+| ----: | ----------------------------------------------- |
+|    10 | The ducks are multiplying...                    |
+|    50 | The flock is growing.                           |
+|   100 | Duck invasion. *(Background changes)*           |
+|   150 | QUACK. *(20 bonus ducks spawn)*                 |
+|   250 | The ducks own this place.                       |
+|   500 | Duck apocalypse. *(Screen begins shaking)*      |
+|   750 | Resistance is futile. *(All ducks move faster)* |
+|  1000 | 👑 The King has arrived.                        |
 
 ---
 
 ## 💡 Planned Features
 
-* 🎵 Quack sound effects
+* 🔊 Quack sound effects
 * 💾 Save progress with Local Storage
-* 🍞 Ducks follow bread
+* 🍞 Bread that ducks follow
 * ✨ Rare duck variants
-* 🌧️ Weather effects
+* 🌧️ Dynamic weather
 * 🏆 Achievement system
 * 📊 Duck statistics
-* 🎨 Themes
+* 🎨 Additional themes
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and bug reports are always welcome.
+Contributions, suggestions, and pull requests are welcome.
 
-If you have an idea that would make Duck even more fun, feel free to open an issue or submit a pull request.
+If you have an idea that would make the duck army even better, feel free to open an issue.
 
 ---
 
