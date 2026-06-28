@@ -4,6 +4,8 @@
 
 Duck is a tiny, minimalist web project where every click summons another duck. Watch your duck army grow as they wander across your screen, unlock milestones, and eventually discover the King Duck.
 
+https://summon-a-duck.netlify.app/
+
 ## ✨ Features
 
 * 🦆 Summon unlimited ducks
